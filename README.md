@@ -11,6 +11,3 @@ This is a simple magical 8 ball app, it will give us the answers to all the tric
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
 
-
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
